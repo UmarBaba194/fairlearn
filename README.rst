@@ -110,7 +110,7 @@ from ``main`` may not be compatible with Fairlearn installed with
 ``pip``. In this case, please navigate the tags in the repository (e.g.
 `v0.7.0 <https://github.com/fairlearn/fairlearn/tree/v0.7.0>`__) to
 locate the appropriate version of the notebook.
-[Click here](https://www.nyckel.com/text-classification-api?gclid=CjwKCAjwo8-SBhAlEiwAopc9W1Fl23BiYMkNhaerZfutlpYwbbQT4y73TR1J66K7sh7z3Zx4J5gMxxoCtggQAvD_BwE)
+Click here for API documentation Examples https://www.nyckel.com/text-classification-api?gclid=CjwKCAjwo8-SBhAlEiwAopc9W1Fl23BiYMkNhaerZfutlpYwbbQT4y73TR1J66K7sh7z3Zx4J5gMxxoCtggQAvD_BwE)
 
 Contributing
 ------------
